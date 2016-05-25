@@ -1,0 +1,9 @@
+/* external style sheet */
+
+body    { margin: 0; padding: 0; }
+h1      { color: #ff0000; }
+p       { line-height: 140%; }
+#header { background-color: #c0c0c0; }
+.copy   { color: #808080; }
+
+table   { background-color: #c0c0c0; }
